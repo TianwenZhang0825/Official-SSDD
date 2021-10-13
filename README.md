@@ -36,7 +36,7 @@ The 75 reports using SSDD are as follows:
 
 https://drive.google.com/file/d/1QP4Bk3-tMQ28ikMmaEUIjXhg-tJcuGqr/view?usp=sharing
 
-# When using Official-SSDD, please welcome to cite the following references [1-11]. Many thanks.
+# When using Official-SSDD, please welcome to cite the following references [1-12]. Many thanks.
 
 [1] Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, Yue Zhou and Durga Kumar. “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” Remote Sensing, 2020.
 
@@ -60,6 +60,8 @@ https://drive.google.com/file/d/1QP4Bk3-tMQ28ikMmaEUIjXhg-tJcuGqr/view?usp=shari
 + + [10] Zhang, Tianwen; Zhang, Xiaoling; Ke, Xiao. Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection. Remote Sens. 2021, 13 (14), 2771.
 
 + + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
+
++ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, accepted, in press, 2021.
 
 # # LS-SSDD-v1.0-OPEN
 https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
