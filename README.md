@@ -61,7 +61,7 @@ https://drive.google.com/file/d/1QP4Bk3-tMQ28ikMmaEUIjXhg-tJcuGqr/view?usp=shari
 
 + + [11] Tianwen Zhang , Xiaoling Zhang , A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification, Pattern Recognition (2021), doi: https://doi.org/10.1016/j.patcog.2021.108365
 
-+ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, accepted, in press, 2021.
++ + [12] T. Zhang, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images”, IEEE Geoscience and Remote Sensing Letters, early access, 2021, https://doi.org/10.1109/LGRS.2021.3119875
 
 # # LS-SSDD-v1.0-OPEN
 https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
