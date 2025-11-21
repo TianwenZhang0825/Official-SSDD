@@ -1,3 +1,14 @@
+【Call for Papers】 
+Journal: Frontiers in Marine Science (IF=3.0, JCR Q1)
+Section: Ocean Observation
+Research Topic: Ocean Object Surveillance Using Satellite Synthetic Aperture Radar
+About this Research Topic: https://www.frontiersin.org/research-topics/76046/ocean-object-surveillance-using-satellite-synthetic-aperture-radar
+
+【Latest Recommended Paper】
+T. Zhang, X. Zhang, and G. Gao, "Divergence to Concentration and Population to Individual: A Progressive Approaching Ship Detection Paradigm for Synthetic Aperture Radar Remote Sensing Imagery," IEEE Trans. Aerosp. Electron. Syst., pp. 1-13, 2025. https://doi.org/10.1109/TAES.2025.3631066
+
+
+【SSDD】
 SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis
 
 https://drive.google.com/file/d/1glNJUGotrbEyk43twwB9556AdngJsynZ/view?usp=sharing
@@ -8,7 +19,7 @@ Please cite this paper:
 
 T. Zhang et al., "SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis," Remote Sens., vol. 13, no. 18, pp. 1–41, 2021, Art. no. 3690.
 
-==============
+【SL-SSDD】
 
 SL-SSDD: Sea-Land Segmentation Dataset for SSDD
 SL-SSDD is the first synergistic sea-land segmentation dataset tailored for deep learning-based SAR ship detection, built upon the well-established SAR Ship Detection Dataset (SSDD). It addresses the critical gap of lacking sea-land prior information in existing SAR ship detection datasets, enabling models to fully distinguish between sea and land regions for more accurate detection.
